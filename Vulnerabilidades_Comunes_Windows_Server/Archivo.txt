@@ -1,0 +1,1 @@
+Analizar los vectores de ataque más comunes, incluyendo fallos en protocolos de red, parches desactualizados y brechas en Active Directory. Identificar debilidades de configuración y ejecutar técnicas de hardening para mitigar la elevación de privilegios y proteger los entornos corporativos
